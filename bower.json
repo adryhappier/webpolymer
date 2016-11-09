@@ -1,0 +1,32 @@
+{
+  "name": "alo-topic-card",
+  "version": "0.0.8",
+  "authors": [
+    "Adry Andreas <adryhappier@gmail.com>"
+  ],
+  "description": "Polymer Card for Topic alodokter.com",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "alodokter"
+  ],
+  "main": "alo-topic-card.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/adryhappier/alo-topic-card/",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "paper-card": "PolymerElements/paper-card#^1.1.1",
+    "paper-button": "PolymerElements/paper-button#^1.0.11",
+    "iron-icons": "PolymerElements/iron-icons#^1.1.3"
+  },
+  "devDependencies": {
+    "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
+    "web-component-tester": "*"
+  }
+}
